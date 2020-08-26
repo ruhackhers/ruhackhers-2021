@@ -200,11 +200,12 @@ should be cleared when going to a different res size*/
   margin-bottom: 0px;
   width: 100vw;
   /* height: 100vh; */
-  background: transparent url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/1231630/stars.png") repeat;
+  background-image: url(../images/graphics/background.png);
 }
 
 #logo {
-  height: 70vh;
+  height: 100vh;
+  width: 100vh;
 }
 
 #header-right {
